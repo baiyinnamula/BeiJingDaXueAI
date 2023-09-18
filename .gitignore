@@ -5,3 +5,5 @@ FASHION_FC/fashion_image_label/fashion_train_jpg_60000/
 
 # 忽略 .npy 文件
 *.npy
+
+checkpoint/
